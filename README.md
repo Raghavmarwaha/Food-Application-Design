@@ -1,2 +1,2 @@
 # Food-Application-Design
-I converted Adobe xd tempelate into web design using HTML,CSS
+I converted Adobe xd template into web design using HTML,CSS
